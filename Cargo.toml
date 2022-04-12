@@ -1,0 +1,10 @@
+[package]
+name = "include-files"
+version = "0.1.2"
+edition = "2021"
+description = "Import files bytes into HashMap"
+homepage = "https://github.com/wyhaya/include-files"
+repository = "https://github.com/wyhaya/include-files.git"
+authors = ["wyhaya <wyhaya@gmail.com>"]
+license = "MIT"
+readme = "README.md"
